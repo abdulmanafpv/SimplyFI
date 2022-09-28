@@ -4,6 +4,9 @@
 
 1: I make a function formatINR, this function convert the number in to INR formate
 
+![One_Answer](https://user-images.githubusercontent.com/84491967/192855846-8e56f67f-3697-4e51-b649-74520908116f.png)
+
+
 2:
    1. It takes the input of test cases, n.
    2. For each test case, it takes the input of two numbers, x and y
